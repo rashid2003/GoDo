@@ -31,6 +31,10 @@ First of all make sure you have Go installed in your machine, then clone the pro
     ```bash
     go install
     ```
+   or just install directly
+   ```bash
+    go install https://github.com/rashid2003/GoDo
+   ```
 
 Or just **download** .exe file form [release page](https://github.com/rashid2003/GoDo/releases).
 ## Contributing
@@ -48,4 +52,4 @@ Or just **download** .exe file form [release page](https://github.com/rashid2003
 **Check TODO list / issues before contributing**
 
 ## License
-This project is open-sourced software licensed under the MIT license. See the [License file](LICENSE.md) for more information.
+This project is open-sourced software licensed under the MIT license. See the [License file](LICENSE) for more information.
