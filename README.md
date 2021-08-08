@@ -20,7 +20,7 @@ First of all make sure you have Go installed in your machine, then clone the pro
    git clone https://github.com/rashid2003/GoDo.git
 ```
 
-1. Use [git](http://getcomposer.org) to clone the project:
+1. Use git to clone the project:
 
     ```bash
     git clone https://github.com/rashid2003/GoDo.git
@@ -37,6 +37,22 @@ First of all make sure you have Go installed in your machine, then clone the pro
    ```
 
 Or just **download** .exe file form [release page](https://github.com/rashid2003/GoDo/releases).
+## How to use
+After you installed the project you can run the App from your command line by typing GoDo
+
+
+1. To check all tasks pass **--show** flag:
+
+    ```bash
+    GoDo --show all
+    ```
+
+2. To add a task by passing **--add** flag:
+
+    ```bash
+    GoDo --add "Write a blog post"
+    ```
+   
 ## Contributing
 1. Use [git](http://getcomposer.org) to clone the project:
 
