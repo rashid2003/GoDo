@@ -1,5 +1,5 @@
 # GoDo
-An CLI To-do app
+A CLI To-Do app which allows you to mange your tasks (todo list) directly from your command line
 
 ## Features
 🙌 Check Tasks<br>
